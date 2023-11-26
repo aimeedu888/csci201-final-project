@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 
 import campus_threads.backend.objects.User;
-import repositories.UserRepository;
+import campus_threads.backend.repositories.*;
 
 @RestController
 public class UserController {

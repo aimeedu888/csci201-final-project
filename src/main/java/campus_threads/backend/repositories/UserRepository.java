@@ -1,4 +1,4 @@
-package repositories;
+package campus_threads.backend.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 
